@@ -1107,3 +1107,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.16-01.45.04:216][567]LogContentBrowser: Attempting asset rename: NewFolder -> UI
 [2023.08.16-01.45.04:216][567]LogContentBrowser: End creating deferred item NewFolder
 [2023.08.16-01.45.07:152][752]LogSlate: Window 'Save Level As' being destroyed
+[2023.08.16-01.45.55:980][293]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.081 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16417 files in 18715 folders with total size 4390 MiB.
